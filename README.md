@@ -12,7 +12,7 @@ This project aims to evaluate GlowCare’s retail sales performance across organ
 ## 2. Sales vs. Profitability
 - Despite high sales, stores like Jendol Ikorodu and Shoprite Adeniran Ogunsanya operate with lower profit margins (~29%), suggesting tight cost control or pricing strategies.
 
-##3. Product Performance
+## 3. Product Performance
 - GlowCare Body Scrub, Face Cream, and Body Lotion are the most sold products by quantity.
 - GlowCare Body Scrub also tops profitability, followed by Face Cream and Facial Cleanser.
 
